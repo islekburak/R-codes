@@ -5,3 +5,7 @@ FZD-g_alpha_interactions
 FZD-WNT_interactions
 ====================
 ![](FZD-WNT_interactions/FZD-WNT_interactions.png)
+
+SANKEY
+======
+![](sankey/sankey.png)
