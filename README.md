@@ -1,1 +1,1 @@
-| ![](/fzd-galpha_interactions.png)|
+![](/fzd-galpha_interactions.png)
