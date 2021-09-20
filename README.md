@@ -9,3 +9,7 @@ FZD-WNT_interactions
 SANKEY
 ======
 ![](sankey/sankey.png)
+
+Tree
+====
+![](tree/treeplot.png)
